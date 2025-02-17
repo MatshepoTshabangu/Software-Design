@@ -1,0 +1,1 @@
+I started by initialise a Git repository on github. Then I opened vs code and cloned my repository. I then created the files index.html, report.md and student-info.txt. I started with the student-info.txt then put in my information. I then put the information on the index.html file and saved my work.
